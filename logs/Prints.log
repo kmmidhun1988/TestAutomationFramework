@@ -1,0 +1,53 @@
+2020-01-15 15:34:25.966 [main] INFO  com.crm.qa.testcases.LoginPageTest - Starting the test 
+2020-01-15 15:34:37.604 [main] DEBUG com.crm.qa.testcases.LoginPageTest - Validation failed
+2020-01-15 15:34:38.428 [main] INFO  com.crm.qa.testcases.LoginPageTest - Starting the test 
+2020-01-15 16:00:31.488 [main] DEBUG com.crm.qa.testcases.HomePageTest - *************** Starting Before Method of HomePageTest ***************
+2020-01-15 16:00:38.484 [main] DEBUG com.crm.qa.testcases.HomePageTest - *************** Completed Before Method of HomePageTest ***************
+2020-01-15 16:00:38.496 [main] DEBUG com.crm.qa.testcases.HomePageTest - *************** Starting homePageTitleTest  ***************
+2020-01-15 16:00:38.852 [main] DEBUG com.crm.qa.testcases.HomePageTest - *************** Completed homePageTitleTest  ***************
+2020-01-15 16:00:39.002 [main] INFO  com.crm.qa.testcases.HomePageTest - *************** Closing the browser instance  ***************
+2020-01-15 16:00:40.080 [main] DEBUG com.crm.qa.testcases.HomePageTest - *************** Starting Before Method of HomePageTest ***************
+2020-01-15 16:00:47.659 [main] DEBUG com.crm.qa.testcases.HomePageTest - *************** Completed Before Method of HomePageTest ***************
+2020-01-15 16:00:47.664 [main] DEBUG com.crm.qa.testcases.HomePageTest - *************** Starting homePageLogoTest  ***************
+2020-01-15 16:00:48.130 [main] DEBUG com.crm.qa.testcases.HomePageTest - *************** Completed homePageLogoTest  ***************
+2020-01-15 16:00:48.132 [main] INFO  com.crm.qa.testcases.HomePageTest - *************** Closing the browser instance  ***************
+2020-01-15 16:00:48.901 [main] DEBUG com.crm.qa.testcases.HomePageTest - *************** Starting Before Method of HomePageTest ***************
+2020-01-15 16:00:55.286 [main] DEBUG com.crm.qa.testcases.HomePageTest - *************** Completed Before Method of HomePageTest ***************
+2020-01-15 16:00:55.288 [main] DEBUG com.crm.qa.testcases.HomePageTest - *************** Starting loginTest  ***************
+2020-01-15 16:01:00.519 [main] DEBUG com.crm.qa.testcases.HomePageTest - *************** Completed loginTest  ***************
+2020-01-15 16:01:00.522 [main] INFO  com.crm.qa.testcases.HomePageTest - *************** Closing the browser instance  ***************
+2020-01-15 16:01:01.357 [main] DEBUG com.crm.qa.testcases.LoginPageTest - *************** Starting Before Method of LoginPageTest ***************
+2020-01-15 16:01:11.985 [main] DEBUG com.crm.qa.testcases.LoginPageTest - *************** Completed Before Method of LoginPageTest ***************
+2020-01-15 16:01:11.987 [main] DEBUG com.crm.qa.testcases.LoginPageTest - *************** Starting validateLoginPageTitleTest  ***************
+2020-01-15 16:01:11.996 [main] DEBUG com.crm.qa.testcases.LoginPageTest - *************** Completed validateLoginPageTitleTest  ***************
+2020-01-15 16:01:12.002 [main] INFO  com.crm.qa.testcases.LoginPageTest - *************** Closing the browser instance  ***************
+2020-01-15 16:01:12.778 [main] DEBUG com.crm.qa.testcases.LoginPageTest - *************** Starting Before Method of LoginPageTest ***************
+2020-01-15 16:01:24.283 [main] DEBUG com.crm.qa.testcases.LoginPageTest - *************** Completed Before Method of LoginPageTest ***************
+2020-01-15 16:01:24.285 [main] DEBUG com.crm.qa.testcases.LoginPageTest - *************** Starting loginToMyaccountTest  ***************
+2020-01-15 16:01:26.594 [main] DEBUG com.crm.qa.testcases.LoginPageTest - *************** Completed loginToMyaccountTest  ***************
+2020-01-15 16:01:26.596 [main] INFO  com.crm.qa.testcases.LoginPageTest - *************** Closing the browser instance  ***************
+2020-01-15 16:01:27.380 [main] DEBUG com.crm.qa.testcases.MyAccountPageTest - *************** Starting Before Method of MyAccountPageTest ***************
+2020-01-15 16:01:37.522 [main] DEBUG com.crm.qa.testcases.MyAccountPageTest - *************** Completed Before Method of MyAccountPageTest ***************
+2020-01-15 16:01:37.568 [main] DEBUG com.crm.qa.testcases.MyAccountPageTest - *************** Starting validateMyAccountPageTitleTest  ***************
+2020-01-15 16:01:37.576 [main] DEBUG com.crm.qa.testcases.MyAccountPageTest - *************** Completed validateMyAccountPageTitleTest  ***************
+2020-01-15 16:01:37.579 [main] INFO  com.crm.qa.testcases.MyAccountPageTest - *************** Closing the browser instance  ***************
+2020-01-15 16:01:38.510 [main] DEBUG com.crm.qa.testcases.MyAccountPageTest - *************** Starting Before Method of MyAccountPageTest ***************
+2020-01-15 16:01:49.445 [main] DEBUG com.crm.qa.testcases.MyAccountPageTest - *************** Completed Before Method of MyAccountPageTest ***************
+2020-01-15 16:01:49.447 [main] DEBUG com.crm.qa.testcases.MyAccountPageTest - *************** Starting validateUserNameDisplayTest  ***************
+2020-01-15 16:01:51.496 [main] DEBUG com.crm.qa.testcases.MyAccountPageTest - *************** Completed validateUserNameDisplayTest  ***************
+2020-01-15 16:01:51.498 [main] INFO  com.crm.qa.testcases.MyAccountPageTest - *************** Closing the browser instance  ***************
+2020-01-15 16:01:52.308 [main] DEBUG com.crm.qa.testcases.MyAccountPageTest - *************** Starting Before Method of MyAccountPageTest ***************
+2020-01-15 16:02:03.996 [main] DEBUG com.crm.qa.testcases.MyAccountPageTest - *************** Completed Before Method of MyAccountPageTest ***************
+2020-01-15 16:02:03.997 [main] DEBUG com.crm.qa.testcases.MyAccountPageTest - *************** Starting validateContactsLinkTest  ***************
+2020-01-15 16:02:06.241 [main] DEBUG com.crm.qa.testcases.MyAccountPageTest - *************** Completed validateContactsLinkTest  ***************
+2020-01-15 16:02:06.245 [main] INFO  com.crm.qa.testcases.MyAccountPageTest - *************** Closing the browser instance  ***************
+2020-01-15 16:02:07.073 [main] DEBUG com.crm.qa.testcases.ContactsPageTest - *************** Starting Before Method of ContactsPageTest ***************
+2020-01-15 16:02:23.805 [main] DEBUG com.crm.qa.testcases.ContactsPageTest - *************** Completed Before Method of ContactsPageTest ***************
+2020-01-15 16:02:23.808 [main] DEBUG com.crm.qa.testcases.ContactsPageTest - *************** Starting verifyContactsLabelTextTest  ***************
+2020-01-15 16:02:23.871 [main] DEBUG com.crm.qa.testcases.ContactsPageTest - *************** Completed verifyContactsLabelTextTest  ***************
+2020-01-15 16:02:23.873 [main] INFO  com.crm.qa.testcases.ContactsPageTest - *************** Closing the browser instance  ***************
+2020-01-15 16:02:24.689 [main] DEBUG com.crm.qa.testcases.ContactsPageTest - *************** Starting Before Method of ContactsPageTest ***************
+2020-01-15 16:02:39.247 [main] DEBUG com.crm.qa.testcases.ContactsPageTest - *************** Completed Before Method of ContactsPageTest ***************
+2020-01-15 16:02:39.249 [main] DEBUG com.crm.qa.testcases.ContactsPageTest - *************** Starting selectContactByNameTest  ***************
+2020-01-15 16:02:41.303 [main] DEBUG com.crm.qa.testcases.ContactsPageTest - *************** Completed selectContactByNameTest  ***************
+2020-01-15 16:02:41.305 [main] INFO  com.crm.qa.testcases.ContactsPageTest - *************** Closing the browser instance  ***************
