@@ -5,6 +5,7 @@
 	<listeners>
 		<listener
 			class-name="com.crm.qa.reports.ExtentReportListener" />
+		<listener class-name="com.crm.qa.util.TestListener" />
 	</listeners>
 
 	<test thread-count="5" name="Test">
