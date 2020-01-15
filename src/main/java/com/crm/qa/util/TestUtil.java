@@ -26,8 +26,8 @@ public class TestUtil extends TestBase {
 	public static long IMPLICIT_WAIT = 10;
 	public static String TESTDATA_SHEET_PATH = System.getProperty("user.dir") + "\\src\\main\\java\\com\\crm\\qa\\testdata\\CRMTestData.xlsx";
 
-	public void switchToFrame() {
-		driver.switchTo().frame("");
+	public void switchToFrame(String name) {
+		driver.switchTo().frame(name);
 	}
 
 	public static void clickHiddenElement(WebElement element) {
